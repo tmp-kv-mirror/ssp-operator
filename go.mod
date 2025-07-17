@@ -11,9 +11,9 @@ require (
 	github.com/machadovilaca/operator-observability v0.0.27
 	github.com/onsi/ginkgo/v2 v2.23.4
 	github.com/onsi/gomega v1.37.0
-	github.com/openshift/api v0.0.0-20250305013520-e7f23be12279 // release-4.18
+	github.com/openshift/api v0.0.0-20250710004639-926605d3338b // release-4.18
 	github.com/openshift/custom-resource-status v1.1.2
-	github.com/openshift/library-go v0.0.0-20250203153547-76273507b614 // release-4.18
+	github.com/openshift/library-go v0.0.0-20250711143941-47604345e7ea // release-4.18
 	github.com/operator-framework/api v0.32.0
 	github.com/operator-framework/operator-lib v0.19.0
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.83.0
